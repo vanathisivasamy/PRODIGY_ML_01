@@ -8,7 +8,7 @@ This repository contains the implementation of a linear regression model to pred
 ## Kaggle Dataset
 The dataset used for training and testing the model is sourced from Kaggle. It includes information about various houses, including their square footage, number of bedrooms, number of bathrooms, and corresponding prices.
 
-**Kaggle Dataset Link:** [House Price Prediction Dataset]((https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data))
+**Kaggle Dataset Link:** https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 Please download the dataset and place it in the `data/` directory before running the code.
 
@@ -21,6 +21,6 @@ The model is trained on the provided dataset, and its performance is evaluated u
 To clone this repository to your local machine, use the following command:
 
 ```bash
-git clone [(https://github.com/vanathisivasamy/PRODIGY_ML_01.git)
+[git clone [(https://github.com/vanathisivasamy/PRODIGY_ML_01.git)](https://github.com/vanathisivasamy/PRODIGY_ML_01.git)https://github.com/vanathisivasamy/PRODIGY_ML_01.git
 ```
 
