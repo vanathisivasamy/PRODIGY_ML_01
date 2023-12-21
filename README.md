@@ -21,6 +21,6 @@ The model is trained on the provided dataset, and its performance is evaluated u
 To clone this repository to your local machine, use the following command:
 
 ```bash
-[git clone [(https://github.com/vanathisivasamy/PRODIGY_ML_01.git)](https://github.com/vanathisivasamy/PRODIGY_ML_01.git)https://github.com/vanathisivasamy/PRODIGY_ML_01.git
+https://github.com/vanathisivasamy/PRODIGY_ML_01.git
 ```
 
